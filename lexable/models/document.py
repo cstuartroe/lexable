@@ -13,6 +13,26 @@ class Collection(models.Model):
     published = models.BooleanField()
     free = models.BooleanField()
 
+    def to_json(self, with_documents: bool):
+        data = {
+            "id": self.id,
+            "language": self.language,
+            "title": self.title,
+            "author": self.author,
+            "description": self.description,
+            "link": self.link,
+            "image": self.image,
+            "free": self.free,
+        }
+
+        if with_documents:
+            data["documents"] = [
+                d.to_json(with_content=False)
+                for d in self.documents.order_by("order")
+            ]
+
+        return data
+
 
 class CollectionTitleTranslation(models.Model):
     collection = models.ForeignKey(
@@ -42,6 +62,19 @@ class Document(models.Model):
     order = models.IntegerField()
     title = models.CharField()
 
+    def to_json(self, with_content: bool):
+        data = {
+            "id": self.id,
+            "title": self.title,
+            "collection": self.collection.to_json(with_documents=False),
+        }
+        if with_content:
+            data["sections"] = [
+                s.to_json()
+                for s in self.sections.order_by("order")
+            ]
+        return data
+
 
 class DocumentTitleTranslation(models.Model):
     document = models.ForeignKey(
@@ -68,3 +101,12 @@ class Section(models.Model):
         related_name="sections",
     )
     order = models.IntegerField()
+
+    def to_json(self):
+        return {
+            "id": self.id,
+            "sentences": [
+                s.to_json()
+                for s in self.sentences.order_by("order")
+            ],
+        }

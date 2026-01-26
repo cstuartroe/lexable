@@ -32,6 +32,14 @@ class Sentence(models.Model):
     text = models.TextField()
     formatting = models.JSONField()
 
+    def to_json(self):
+        return {
+            "id": self.id,
+            "sentence_type": self.sentence_type,
+            "text": self.text,
+            "formatting": self.formatting,
+        }
+
 
 class SentenceTranslation(models.Model):
     sentence = models.ForeignKey(
