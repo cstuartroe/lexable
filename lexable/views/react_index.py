@@ -1,8 +1,6 @@
-from django.shortcuts import render
-from django.views import View
-from django.http import HttpRequest, HttpResponseRedirect
+from django import http, shortcuts, views
 
 
-class ReactIndexView(View):
-    def get(self, request: HttpRequest):
-        return render(request, 'react_index.html')
+class ReactIndexView(views.View):
+    def get(self, request: http.HttpRequest):
+        return shortcuts.render(request, 'react_index.html')
