@@ -6,9 +6,12 @@ from . import language
 class Collection(models.Model):
     language = models.CharField(choices=language.LANGUAGE_CHOICES)
     title = models.CharField()
+    author = models.CharField()
     description = models.TextField()
     link = models.CharField()
+    image = models.CharField()
     published = models.BooleanField()
+    free = models.BooleanField()
 
 
 class CollectionTitleTranslation(models.Model):
