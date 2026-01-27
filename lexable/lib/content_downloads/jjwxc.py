@@ -1,14 +1,13 @@
-import argparse
 import codecs
 
 import bs4
-from django.core.management import base
 from django.db import transaction
 import requests
 
 from lexable.models import document, language, sentence
 
 
+@transaction.atomic
 def download_jjwxc(novel_id: int, chapter_range: tuple[int, int], title: str | None = None):
     """Downloads a story from jjwxc.net
 
