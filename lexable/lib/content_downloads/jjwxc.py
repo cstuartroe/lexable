@@ -69,6 +69,7 @@ def download_jjwxc(novel_id: int, chapter_range: tuple[int, int], title: str | N
             collection=collection,
             order=i + 1,
             title=soup.h2.text.strip(),
+            link=chapter_url,
         )
         chapter_record.save()
 

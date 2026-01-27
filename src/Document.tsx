@@ -81,7 +81,11 @@ export default function Document(_props: {}) {
 
   return (
     <div>
-      <div>{document.title}</div>
+      <div>
+        <a href={document.link} target="_blank">
+          {document.title}
+        </a>
+      </div>
       <div>
         <Link to={`/collection/${document.collection.id}`}>
           Go up to {document.collection.title}

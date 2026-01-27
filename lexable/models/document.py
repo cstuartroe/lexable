@@ -22,6 +22,7 @@ class Collection(models.Model):
             "description": self.description,
             "link": self.link,
             "image": self.image,
+            "published": self.published,
             "free": self.free,
         }
 
@@ -61,11 +62,13 @@ class Document(models.Model):
     )
     order = models.IntegerField()
     title = models.CharField()
+    link = models.CharField()
 
     def to_json(self, with_content: bool):
         data = {
             "id": self.id,
             "title": self.title,
+            "link": self.link,
             "collection": self.collection.to_json(with_documents=False),
         }
         if with_content:

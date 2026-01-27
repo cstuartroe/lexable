@@ -42,6 +42,7 @@ export type Section = {
 export type Document = {
   id: number,
   title: string,
+  link: string,
   collection: Collection,
 }
 
