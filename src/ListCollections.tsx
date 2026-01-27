@@ -16,10 +16,14 @@ export default function ListCollections(_props: {}) {
   )
 
   return (
-    <div>
+    <ul>
       {collections.map((collection) => (
-        <Link to={`/collection/${collection.id}`} key={collection.id}>{collection.title}</Link>
+        <li key={collection.id}>
+          <Link to={`/collection/${collection.id}`}>
+            {collection.title}
+          </Link>
+        </li>
       ))}
-    </div>
+    </ul>
   );
 }
