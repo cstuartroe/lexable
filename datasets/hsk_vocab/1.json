@@ -1,0 +1,2502 @@
+[
+  {
+    "word": "\u7231",
+    "pinyin": "\u00e0i",
+    "definition": "love"
+  },
+  {
+    "word": "\u7231\u597d",
+    "pinyin": "\u00e0i h\u00e0o",
+    "definition": "hobby"
+  },
+  {
+    "word": "\u516b",
+    "pinyin": "b\u0101",
+    "definition": "eight"
+  },
+  {
+    "word": "\u7238\u7238\uff5c\u7238",
+    "pinyin": "b\u00e0ba \uff5c b\u00e0",
+    "definition": "dad"
+  },
+  {
+    "word": "\u5427",
+    "pinyin": "ba",
+    "definition": "(interjection particle)"
+  },
+  {
+    "word": "\u767d",
+    "pinyin": "b\u00e1i",
+    "definition": "white"
+  },
+  {
+    "word": "\u767d\u5929",
+    "pinyin": "b\u00e1i ti\u0101n",
+    "definition": "day"
+  },
+  {
+    "word": "\u767e",
+    "pinyin": "b\u01cei",
+    "definition": "hundred"
+  },
+  {
+    "word": "\u73ed",
+    "pinyin": "b\u0101n",
+    "definition": "class"
+  },
+  {
+    "word": "\u534a",
+    "pinyin": "b\u00e0n",
+    "definition": "half"
+  },
+  {
+    "word": "\u534a\u5e74",
+    "pinyin": "b\u00e0n ni\u00e1n",
+    "definition": "half a year"
+  },
+  {
+    "word": "\u534a\u5929",
+    "pinyin": "b\u00e0n ti\u0101n",
+    "definition": "half day"
+  },
+  {
+    "word": "\u5e2e",
+    "pinyin": "b\u0101ng",
+    "definition": "help"
+  },
+  {
+    "word": "\u5e2e\u5fd9",
+    "pinyin": "b\u0101ng m\u00e1ng",
+    "definition": "help"
+  },
+  {
+    "word": "\u5305",
+    "pinyin": "b\u0101o",
+    "definition": "package"
+  },
+  {
+    "word": "\u5305\u5b50",
+    "pinyin": "b\u0101o zi",
+    "definition": "bun"
+  },
+  {
+    "word": "\u676f",
+    "pinyin": "b\u0113i",
+    "definition": "cup"
+  },
+  {
+    "word": "\u676f\u5b50",
+    "pinyin": "b\u0113i zi",
+    "definition": "cup"
+  },
+  {
+    "word": "\u5317",
+    "pinyin": "b\u011bi",
+    "definition": "north"
+  },
+  {
+    "word": "\u5317\u8fb9",
+    "pinyin": "b\u011bi bi\u0101n",
+    "definition": "North side"
+  },
+  {
+    "word": "\u5317\u4eac",
+    "pinyin": "b\u011bi j\u012bng",
+    "definition": "Beijing"
+  },
+  {
+    "word": "\u672c",
+    "pinyin": "b\u011bn",
+    "definition": "(measure word for books or volumes)"
+  },
+  {
+    "word": "\u672c\u5b50",
+    "pinyin": "b\u011bn zi",
+    "definition": "book"
+  },
+  {
+    "word": "\u6bd4",
+    "pinyin": "b\u01d0",
+    "definition": "particle used for comparison"
+  },
+  {
+    "word": "\u522b",
+    "pinyin": "bi\u00e9",
+    "definition": "Don\u2019t"
+  },
+  {
+    "word": "\u522b\u7684",
+    "pinyin": "bi\u00e9 de",
+    "definition": "other"
+  },
+  {
+    "word": "\u522b\u4eba",
+    "pinyin": "bi\u00e9\u00b7r\u00e9n",
+    "definition": "other people"
+  },
+  {
+    "word": "\u75c5",
+    "pinyin": "b\u00ecng",
+    "definition": "disease"
+  },
+  {
+    "word": "\u75c5\u4eba",
+    "pinyin": "b\u00ecng r\u00e9n",
+    "definition": "patient"
+  },
+  {
+    "word": "\u4e0d\u5927",
+    "pinyin": "b\u00fa d\u00e0",
+    "definition": "not big"
+  },
+  {
+    "word": "\u4e0d\u5bf9",
+    "pinyin": "b\u00fa du\u00ec",
+    "definition": "wrong"
+  },
+  {
+    "word": "\u4e0d\u5ba2\u6c14",
+    "pinyin": "b\u00fa k\u00e8 q\u00ec",
+    "definition": "You\u2019re welcome"
+  },
+  {
+    "word": "\u4e0d\u7528",
+    "pinyin": "b\u00fa y\u00f2ng",
+    "definition": "No need to"
+  },
+  {
+    "word": "\u4e0d",
+    "pinyin": "b\u00f9",
+    "definition": "No"
+  },
+  {
+    "word": "\u83dc",
+    "pinyin": "c\u00e0i",
+    "definition": "dish"
+  },
+  {
+    "word": "\u8336",
+    "pinyin": "ch\u00e1",
+    "definition": "tea"
+  },
+  {
+    "word": "\u5dee",
+    "pinyin": "ch\u00e0",
+    "definition": "differ from; bad; short of"
+  },
+  {
+    "word": "\u5e38",
+    "pinyin": "ch\u00e1ng",
+    "definition": "often"
+  },
+  {
+    "word": "\u5e38\u5e38",
+    "pinyin": "ch\u00e1ng ch\u00e1ng",
+    "definition": "often"
+  },
+  {
+    "word": "\u5531",
+    "pinyin": "ch\u00e0ng",
+    "definition": "sing"
+  },
+  {
+    "word": "\u5531\u6b4c",
+    "pinyin": "ch\u00e0ng g\u0113",
+    "definition": "sing"
+  },
+  {
+    "word": "\u8f66",
+    "pinyin": "ch\u0113",
+    "definition": "car"
+  },
+  {
+    "word": "\u8f66\u7968",
+    "pinyin": "ch\u0113 pi\u00e0o",
+    "definition": "ticket"
+  },
+  {
+    "word": "\u8f66\u4e0a",
+    "pinyin": "ch\u0113 sh\u00e0ng",
+    "definition": "in the car"
+  },
+  {
+    "word": "\u8f66\u7ad9",
+    "pinyin": "ch\u0113 zh\u00e0n",
+    "definition": "station"
+  },
+  {
+    "word": "\u5403",
+    "pinyin": "ch\u012b",
+    "definition": "eat"
+  },
+  {
+    "word": "\u5403\u996d",
+    "pinyin": "ch\u012b f\u00e0n",
+    "definition": "have meal"
+  },
+  {
+    "word": "\u51fa",
+    "pinyin": "ch\u016b",
+    "definition": "out"
+  },
+  {
+    "word": "\u51fa\u6765",
+    "pinyin": "ch\u016b l\u00e1i",
+    "definition": "come"
+  },
+  {
+    "word": "\u51fa\u53bb",
+    "pinyin": "ch\u016b q\u00f9",
+    "definition": "go out"
+  },
+  {
+    "word": "\u7a7f",
+    "pinyin": "chu\u0101n",
+    "definition": "wear"
+  },
+  {
+    "word": "\u5e8a",
+    "pinyin": "chu\u00e1ng",
+    "definition": "bed"
+  },
+  {
+    "word": "\u6b21",
+    "pinyin": "c\u00ec",
+    "definition": "(measure word for times, frequency)"
+  },
+  {
+    "word": "\u4ece",
+    "pinyin": "c\u00f3ng",
+    "definition": "from"
+  },
+  {
+    "word": "\u9519",
+    "pinyin": "cu\u00f2",
+    "definition": "wrong"
+  },
+  {
+    "word": "\u6253",
+    "pinyin": "d\u01ce",
+    "definition": "hit, take"
+  },
+  {
+    "word": "\u6253\u8f66",
+    "pinyin": "d\u01ce ch\u0113",
+    "definition": "take a taxi"
+  },
+  {
+    "word": "\u6253\u7535\u8bdd",
+    "pinyin": "d\u01ce di\u00e0n hu\u00e0",
+    "definition": "make a phonecall"
+  },
+  {
+    "word": "\u6253\u5f00",
+    "pinyin": "d\u01ce k\u0101i",
+    "definition": "turn on"
+  },
+  {
+    "word": "\u6253\u7403",
+    "pinyin": "d\u01ce qi\u00fa",
+    "definition": "play ball"
+  },
+  {
+    "word": "\u5927",
+    "pinyin": "d\u00e0",
+    "definition": "large, big"
+  },
+  {
+    "word": "\u5927\u5b66",
+    "pinyin": "d\u00e0 xu\u00e9",
+    "definition": "university"
+  },
+  {
+    "word": "\u5927\u5b66\u751f",
+    "pinyin": "d\u00e0 xu\u00e9 sh\u0113ng",
+    "definition": "university student"
+  },
+  {
+    "word": "\u5230",
+    "pinyin": "d\u00e0o",
+    "definition": "reach"
+  },
+  {
+    "word": "\u5f97\u5230",
+    "pinyin": "d\u00e9 d\u00e0o",
+    "definition": "get"
+  },
+  {
+    "word": "\u5730",
+    "pinyin": "de",
+    "definition": "auxiliary word"
+  },
+  {
+    "word": "\u7684",
+    "pinyin": "de",
+    "definition": "(aux.)"
+  },
+  {
+    "word": "\u7b49",
+    "pinyin": "d\u011bng",
+    "definition": "wait"
+  },
+  {
+    "word": "\u5730",
+    "pinyin": "d\u00ec",
+    "definition": "ground"
+  },
+  {
+    "word": "\u5730\u70b9",
+    "pinyin": "d\u00ecdi\u01cen",
+    "definition": "location"
+  },
+  {
+    "word": "\u5730\u65b9",
+    "pinyin": "d\u00ecfang",
+    "definition": "local"
+  },
+  {
+    "word": "\u5730\u4e0a",
+    "pinyin": "d\u00ec sh\u00e0ng",
+    "definition": "on the ground"
+  },
+  {
+    "word": "\u5730\u56fe",
+    "pinyin": "d\u00ect\u00fa",
+    "definition": "Map"
+  },
+  {
+    "word": "\u5f1f\u5f1f\uff5c\u5f1f",
+    "pinyin": "d\u00ec di \uff5c d\u00ec",
+    "definition": "younger brother"
+  },
+  {
+    "word": "\u7b2c",
+    "pinyin": "d\u00ec \uff08 d\u00ec \u00e8r \uff09",
+    "definition": "auxiliary word for ordinal numbers (second )"
+  },
+  {
+    "word": "\u70b9",
+    "pinyin": "di\u01cen",
+    "definition": "spot"
+  },
+  {
+    "word": "\u7535",
+    "pinyin": "di\u00e0n",
+    "definition": "electricity"
+  },
+  {
+    "word": "\u7535\u8bdd",
+    "pinyin": "di\u00e0n hu\u00e0",
+    "definition": "phone"
+  },
+  {
+    "word": "\u7535\u8111",
+    "pinyin": "di\u00e0nn\u01ceo",
+    "definition": "Computer"
+  },
+  {
+    "word": "\u7535\u89c6",
+    "pinyin": "di\u00e0nsh\u00ec",
+    "definition": "television"
+  },
+  {
+    "word": "\u7535\u89c6\u673a",
+    "pinyin": "di\u00e0n sh\u00ec j\u012b",
+    "definition": "television"
+  },
+  {
+    "word": "\u7535\u5f71",
+    "pinyin": "di\u00e0ny\u01d0ng",
+    "definition": "Film"
+  },
+  {
+    "word": "\u7535\u5f71\u9662",
+    "pinyin": "di\u00e0n y\u01d0ng yu\u00e0n",
+    "definition": "cinema; movie theater"
+  },
+  {
+    "word": "\u4e1c",
+    "pinyin": "d\u014dng",
+    "definition": "east"
+  },
+  {
+    "word": "\u4e1c\u8fb9",
+    "pinyin": "d\u014dng bi\u0101n",
+    "definition": "east side"
+  },
+  {
+    "word": "\u4e1c\u897f",
+    "pinyin": "d\u014dngxi",
+    "definition": "thing"
+  },
+  {
+    "word": "\u52a8",
+    "pinyin": "d\u00f2ng",
+    "definition": "move"
+  },
+  {
+    "word": "\u52a8\u4f5c",
+    "pinyin": "d\u00f2ngzu\u00f2",
+    "definition": "action"
+  },
+  {
+    "word": "\u90fd",
+    "pinyin": "d\u014du",
+    "definition": "all"
+  },
+  {
+    "word": "\u8bfb",
+    "pinyin": "d\u00fa",
+    "definition": "read"
+  },
+  {
+    "word": "\u8bfb\u4e66",
+    "pinyin": "d\u00fa sh\u016b",
+    "definition": "reading; study"
+  },
+  {
+    "word": "\u5bf9",
+    "pinyin": "du\u00ec",
+    "definition": "right"
+  },
+  {
+    "word": "\u5bf9\u4e0d\u8d77",
+    "pinyin": "du\u00ecbuq\u01d0",
+    "definition": "I\u2019m sorry."
+  },
+  {
+    "word": "\u591a",
+    "pinyin": "du\u014d",
+    "definition": "many; much; more"
+  },
+  {
+    "word": "\u591a\u5c11",
+    "pinyin": "du\u014dshao",
+    "definition": "how much"
+  },
+  {
+    "word": "\u997f",
+    "pinyin": "\u00e8",
+    "definition": "hungry"
+  },
+  {
+    "word": "\u513f\u5b50",
+    "pinyin": "\u00e9rzi",
+    "definition": "Son"
+  },
+  {
+    "word": "\u4e8c",
+    "pinyin": "\u00e8r",
+    "definition": "Two"
+  },
+  {
+    "word": "\u996d",
+    "pinyin": "f\u00e0n",
+    "definition": "rice; meal"
+  },
+  {
+    "word": "\u996d\u5e97",
+    "pinyin": "f\u00e0ndi\u00e0n",
+    "definition": "restaurant"
+  },
+  {
+    "word": "\u623f\u95f4",
+    "pinyin": "f\u00e1ngji\u0101n",
+    "definition": "Room"
+  },
+  {
+    "word": "\u623f\u5b50",
+    "pinyin": "f\u00e1ng zi",
+    "definition": "house; building"
+  },
+  {
+    "word": "\u653e",
+    "pinyin": "f\u00e0ng",
+    "definition": "discharge"
+  },
+  {
+    "word": "\u653e\u5047",
+    "pinyin": "f\u00e0ng ji\u00e0",
+    "definition": "holiday; have a holiday"
+  },
+  {
+    "word": "\u653e\u5b66",
+    "pinyin": "f\u00e0ng xu\u00e9",
+    "definition": "off school"
+  },
+  {
+    "word": "\u98de",
+    "pinyin": "f\u0113i",
+    "definition": "fly"
+  },
+  {
+    "word": "\u98de\u673a",
+    "pinyin": "f\u0113ij\u012b",
+    "definition": "aircraft"
+  },
+  {
+    "word": "\u975e\u5e38",
+    "pinyin": "f\u0113ich\u00e1ng",
+    "definition": "very"
+  },
+  {
+    "word": "\u5206",
+    "pinyin": "f\u0113n",
+    "definition": "minute; point; part; (measure word)"
+  },
+  {
+    "word": "\u98ce",
+    "pinyin": "f\u0113ng",
+    "definition": "wind"
+  },
+  {
+    "word": "\u5e72",
+    "pinyin": "g\u0101n",
+    "definition": "dry"
+  },
+  {
+    "word": "\u5e72\u51c0",
+    "pinyin": "g\u0101nj\u00ecng",
+    "definition": "clean"
+  },
+  {
+    "word": "\u5e72",
+    "pinyin": "g\u00e0n",
+    "definition": "do"
+  },
+  {
+    "word": "\u5e72\u4ec0\u4e48",
+    "pinyin": "g\u00e0n sh\u00e9n me",
+    "definition": "What to do"
+  },
+  {
+    "word": "\u9ad8",
+    "pinyin": "g\u0101o",
+    "definition": "high"
+  },
+  {
+    "word": "\u9ad8\u5174",
+    "pinyin": "g\u0101ox\u00ecng",
+    "definition": "happy"
+  },
+  {
+    "word": "\u544a\u8bc9",
+    "pinyin": "g\u00e0osu",
+    "definition": "tell"
+  },
+  {
+    "word": "\u54e5\u54e5\uff5c\u54e5",
+    "pinyin": "g\u0113 ge \uff5c g\u0113",
+    "definition": "elder brother"
+  },
+  {
+    "word": "\u6b4c",
+    "pinyin": "g\u0113",
+    "definition": "song"
+  },
+  {
+    "word": "\u4e2a",
+    "pinyin": "g\u00e8",
+    "definition": "individual"
+  },
+  {
+    "word": "\u7ed9",
+    "pinyin": "g\u011bi",
+    "definition": "give"
+  },
+  {
+    "word": "\u8ddf",
+    "pinyin": "g\u0113n",
+    "definition": "with"
+  },
+  {
+    "word": "\u5de5\u4eba",
+    "pinyin": "g\u014dngr\u00e9n",
+    "definition": "Worker"
+  },
+  {
+    "word": "\u5de5\u4f5c",
+    "pinyin": "g\u014dngzu\u00f2",
+    "definition": "work"
+  },
+  {
+    "word": "\u5173",
+    "pinyin": "gu\u0101n",
+    "definition": "shut; close; turn off"
+  },
+  {
+    "word": "\u5173\u4e0a",
+    "pinyin": "gu\u0101n sh\u00e0ng",
+    "definition": "close;shut to; turn off"
+  },
+  {
+    "word": "\u8d35",
+    "pinyin": "gu\u00ec",
+    "definition": "noble"
+  },
+  {
+    "word": "\u56fd",
+    "pinyin": "gu\u00f3",
+    "definition": "country; state; nation"
+  },
+  {
+    "word": "\u56fd\u5bb6",
+    "pinyin": "gu\u00f3ji\u0101",
+    "definition": "Country"
+  },
+  {
+    "word": "\u56fd\u5916",
+    "pinyin": "gu\u00f3 w\u00e0i",
+    "definition": "foreign; oversea; abroad"
+  },
+  {
+    "word": "\u8fc7",
+    "pinyin": "gu\u00f2",
+    "definition": "pass"
+  },
+  {
+    "word": "\u8fd8",
+    "pinyin": "h\u00e1i",
+    "definition": "also; still; yet"
+  },
+  {
+    "word": "\u8fd8\u662f",
+    "pinyin": "h\u00e1ishi",
+    "definition": "still"
+  },
+  {
+    "word": "\u8fd8\u6709",
+    "pinyin": "h\u00e1i y\u01d2u",
+    "definition": "also; in addition; besides"
+  },
+  {
+    "word": "\u5b69\u5b50",
+    "pinyin": "h\u00e1izi",
+    "definition": "Children"
+  },
+  {
+    "word": "\u6c49\u8bed",
+    "pinyin": "h\u00e0ny\u01d4",
+    "definition": "Chinese"
+  },
+  {
+    "word": "\u6c49\u5b57",
+    "pinyin": "h\u00e0n z\u00ec",
+    "definition": "Chinese character"
+  },
+  {
+    "word": "\u597d",
+    "pinyin": "h\u01ceo",
+    "definition": "good"
+  },
+  {
+    "word": "\u597d\u5403",
+    "pinyin": "h\u01ceoch\u012b",
+    "definition": "Yummy"
+  },
+  {
+    "word": "\u597d\u770b",
+    "pinyin": "h\u01ceo k\u00e0n",
+    "definition": "good looking"
+  },
+  {
+    "word": "\u597d\u542c",
+    "pinyin": "h\u01ceo t\u012bng",
+    "definition": "pleasant to hear"
+  },
+  {
+    "word": "\u597d\u73a9\u513f",
+    "pinyin": "h\u01ceo w\u00e1nr",
+    "definition": "fun; interesting"
+  },
+  {
+    "word": "\u53f7",
+    "pinyin": "h\u00e0o",
+    "definition": "Number/date"
+  },
+  {
+    "word": "\u559d",
+    "pinyin": "h\u0113",
+    "definition": "drink"
+  },
+  {
+    "word": "\u548c",
+    "pinyin": "h\u00e9",
+    "definition": "and"
+  },
+  {
+    "word": "\u5f88",
+    "pinyin": "h\u011bn",
+    "definition": "very"
+  },
+  {
+    "word": "\u540e",
+    "pinyin": "h\u00f2u",
+    "definition": "back; behind; after; later"
+  },
+  {
+    "word": "\u540e\u8fb9",
+    "pinyin": "h\u00f2u bi\u0101n",
+    "definition": "behind; back"
+  },
+  {
+    "word": "\u540e\u5929",
+    "pinyin": "h\u00f2u ti\u0101n",
+    "definition": "day after tomorrow"
+  },
+  {
+    "word": "\u82b1",
+    "pinyin": "hu\u0101",
+    "definition": "flower"
+  },
+  {
+    "word": "\u8bdd",
+    "pinyin": "hu\u00e0",
+    "definition": "word; words"
+  },
+  {
+    "word": "\u574f",
+    "pinyin": "hu\u00e0i",
+    "definition": "bad"
+  },
+  {
+    "word": "\u8fd8",
+    "pinyin": "hu\u00e1n",
+    "definition": "return; pay back"
+  },
+  {
+    "word": "\u56de",
+    "pinyin": "hu\u00ed",
+    "definition": "go back; return"
+  },
+  {
+    "word": "\u56de\u7b54",
+    "pinyin": "hu\u00edd\u00e1",
+    "definition": "Answer"
+  },
+  {
+    "word": "\u56de\u5230",
+    "pinyin": "hu\u00ed d\u00e0o",
+    "definition": "back to"
+  },
+  {
+    "word": "\u56de\u5bb6",
+    "pinyin": "hu\u00ed ji\u0101",
+    "definition": "go home; return home"
+  },
+  {
+    "word": "\u56de\u6765",
+    "pinyin": "hu\u00ed l\u00e1i",
+    "definition": "come back; return"
+  },
+  {
+    "word": "\u56de\u53bb",
+    "pinyin": "hu\u00ed q\u00f9",
+    "definition": "go back"
+  },
+  {
+    "word": "\u4f1a",
+    "pinyin": "hu\u00ec",
+    "definition": "can; be able to"
+  },
+  {
+    "word": "\u706b\u8f66",
+    "pinyin": "hu\u01d2 ch\u0113",
+    "definition": "train"
+  },
+  {
+    "word": "\u673a\u573a",
+    "pinyin": "j\u012bch\u01ceng",
+    "definition": "Airport"
+  },
+  {
+    "word": "\u673a\u7968",
+    "pinyin": "j\u012b pi\u00e0o",
+    "definition": "air ticket"
+  },
+  {
+    "word": "\u9e21\u86cb",
+    "pinyin": "j\u012bd\u00e0n",
+    "definition": "Egg"
+  },
+  {
+    "word": "\u51e0",
+    "pinyin": "j\u01d0",
+    "definition": "several"
+  },
+  {
+    "word": "\u8bb0",
+    "pinyin": "j\u00ec",
+    "definition": "remember"
+  },
+  {
+    "word": "\u8bb0\u5f97",
+    "pinyin": "j\u00ecd\u00e9",
+    "definition": "remember"
+  },
+  {
+    "word": "\u8bb0\u4f4f",
+    "pinyin": "j\u00ec zh\u00f9",
+    "definition": "remember; keep in mind"
+  },
+  {
+    "word": "\u5bb6",
+    "pinyin": "ji\u0101",
+    "definition": "home"
+  },
+  {
+    "word": "\u5bb6\u91cc",
+    "pinyin": "ji\u0101 l\u01d0",
+    "definition": "In the home"
+  },
+  {
+    "word": "\u5bb6\u4eba",
+    "pinyin": "ji\u0101 r\u00e9n",
+    "definition": "family"
+  },
+  {
+    "word": "\u95f4",
+    "pinyin": "ji\u0101n",
+    "definition": "between; measure word for rooms"
+  },
+  {
+    "word": "\u89c1",
+    "pinyin": "ji\u00e0n",
+    "definition": "see; meet"
+  },
+  {
+    "word": "\u89c1\u9762",
+    "pinyin": "ji\u00e0nmi\u00e0n",
+    "definition": "meet"
+  },
+  {
+    "word": "\u6559",
+    "pinyin": "ji\u0101o",
+    "definition": "teach"
+  },
+  {
+    "word": "\u53eb",
+    "pinyin": "ji\u00e0o",
+    "definition": "call; be called"
+  },
+  {
+    "word": "\u6559\u5b66\u697c",
+    "pinyin": "ji\u00e0o xu\u00e9 l\u00f3u",
+    "definition": "teaching building"
+  },
+  {
+    "word": "\u59d0\u59d0\uff5c\u59d0",
+    "pinyin": "ji\u011b jie \uff5c ji\u011b",
+    "definition": "elder sister"
+  },
+  {
+    "word": "\u4ecb\u7ecd",
+    "pinyin": "ji\u00e8sh\u00e0o",
+    "definition": "introduce"
+  },
+  {
+    "word": "\u4eca\u5e74",
+    "pinyin": "j\u012bn ni\u00e1n",
+    "definition": "this year"
+  },
+  {
+    "word": "\u4eca\u5929",
+    "pinyin": "j\u012bnti\u0101n",
+    "definition": "Today"
+  },
+  {
+    "word": "\u8fdb",
+    "pinyin": "j\u00ecn",
+    "definition": "enter"
+  },
+  {
+    "word": "\u8fdb\u6765",
+    "pinyin": "j\u00ecn l\u00e1i",
+    "definition": "come in"
+  },
+  {
+    "word": "\u8fdb\u53bb",
+    "pinyin": "j\u00ecn q\u00f9",
+    "definition": "go in"
+  },
+  {
+    "word": "\u4e5d",
+    "pinyin": "ji\u01d4",
+    "definition": "Nine"
+  },
+  {
+    "word": "\u5c31",
+    "pinyin": "ji\u00f9",
+    "definition": "as soon as; right away; then"
+  },
+  {
+    "word": "\u89c9\u5f97",
+    "pinyin": "ju\u00e9de",
+    "definition": "Think"
+  },
+  {
+    "word": "\u5f00",
+    "pinyin": "k\u0101i",
+    "definition": "open"
+  },
+  {
+    "word": "\u5f00\u8f66",
+    "pinyin": "k\u0101i ch\u0113",
+    "definition": "drive; drive a car"
+  },
+  {
+    "word": "\u5f00\u4f1a",
+    "pinyin": "k\u0101i hu\u00ec",
+    "definition": "have a meeting"
+  },
+  {
+    "word": "\u5f00\u73a9\u7b11",
+    "pinyin": "k\u0101iw\u00e1nxi\u00e0o",
+    "definition": "Make fun of"
+  },
+  {
+    "word": "\u770b",
+    "pinyin": "k\u00e0n",
+    "definition": "see"
+  },
+  {
+    "word": "\u770b\u75c5",
+    "pinyin": "k\u00e0n b\u00ecng",
+    "definition": "see a doctor"
+  },
+  {
+    "word": "\u770b\u5230",
+    "pinyin": "k\u00e0n d\u00e0o",
+    "definition": "see"
+  },
+  {
+    "word": "\u770b\u89c1",
+    "pinyin": "k\u00e0nji\u00e0n",
+    "definition": "seeing"
+  },
+  {
+    "word": "\u8003",
+    "pinyin": "k\u01ceo",
+    "definition": "test; examine"
+  },
+  {
+    "word": "\u8003\u8bd5",
+    "pinyin": "k\u01ceosh\u00ec",
+    "definition": "Examination"
+  },
+  {
+    "word": "\u6e34",
+    "pinyin": "k\u011b",
+    "definition": "thirsty"
+  },
+  {
+    "word": "\u8bfe",
+    "pinyin": "k\u00e8",
+    "definition": "course"
+  },
+  {
+    "word": "\u8bfe\u672c",
+    "pinyin": "k\u00e8 b\u011bn",
+    "definition": "textbook"
+  },
+  {
+    "word": "\u8bfe\u6587",
+    "pinyin": "k\u00e8 w\u00e9n",
+    "definition": "text"
+  },
+  {
+    "word": "\u53e3",
+    "pinyin": "k\u01d2u",
+    "definition": "mouth"
+  },
+  {
+    "word": "\u5757",
+    "pinyin": "ku\u00e0i",
+    "definition": "block"
+  },
+  {
+    "word": "\u5feb",
+    "pinyin": "ku\u00e0i",
+    "definition": "fast"
+  },
+  {
+    "word": "\u6765",
+    "pinyin": "l\u00e1i",
+    "definition": "come"
+  },
+  {
+    "word": "\u6765\u5230",
+    "pinyin": "l\u00e1i d\u00e0o",
+    "definition": "come; arrive"
+  },
+  {
+    "word": "\u8001",
+    "pinyin": "l\u01ceo",
+    "definition": "old; aged"
+  },
+  {
+    "word": "\u8001\u4eba",
+    "pinyin": "l\u01ceo r\u00e9n",
+    "definition": "old people; the aged"
+  },
+  {
+    "word": "\u8001\u5e08",
+    "pinyin": "l\u01ceosh\u012b",
+    "definition": "Teacher"
+  },
+  {
+    "word": "\u4e86",
+    "pinyin": "le",
+    "definition": "past tense marker"
+  },
+  {
+    "word": "\u7d2f",
+    "pinyin": "l\u00e8i",
+    "definition": "tired"
+  },
+  {
+    "word": "\u51b7",
+    "pinyin": "l\u011bng",
+    "definition": "cold"
+  },
+  {
+    "word": "\u91cc",
+    "pinyin": "l\u01d0",
+    "definition": "in"
+  },
+  {
+    "word": "\u91cc\u8fb9",
+    "pinyin": "l\u01d0 bi\u0101n",
+    "definition": "inside"
+  },
+  {
+    "word": "\u4e24",
+    "pinyin": "li\u01ceng",
+    "definition": "two"
+  },
+  {
+    "word": "\u96f6\uff5c\u3007",
+    "pinyin": "l\u00edng \uff5c l\u00edng",
+    "definition": "zero"
+  },
+  {
+    "word": "\u516d",
+    "pinyin": "li\u00f9",
+    "definition": "Six"
+  },
+  {
+    "word": "\u697c",
+    "pinyin": "l\u00f3u",
+    "definition": "floor"
+  },
+  {
+    "word": "\u697c\u4e0a",
+    "pinyin": "l\u00f3u sh\u00e0ng",
+    "definition": "upstairs"
+  },
+  {
+    "word": "\u697c\u4e0b",
+    "pinyin": "l\u00f3u xi\u00e0",
+    "definition": "downstairs"
+  },
+  {
+    "word": "\u8def",
+    "pinyin": "l\u00f9",
+    "definition": "road"
+  },
+  {
+    "word": "\u8def\u53e3",
+    "pinyin": "l\u00f9 k\u01d2u",
+    "definition": "intersection; crossing"
+  },
+  {
+    "word": "\u8def\u4e0a",
+    "pinyin": "l\u00f9 sh\u00e0ng",
+    "definition": "on the road"
+  },
+  {
+    "word": "\u5988\u5988\uff5c\u5988",
+    "pinyin": "m\u0101 ma \uff5c m\u0101",
+    "definition": "mom; mother"
+  },
+  {
+    "word": "\u9a6c\u8def",
+    "pinyin": "m\u01ce l\u00f9",
+    "definition": "road; street"
+  },
+  {
+    "word": "\u9a6c\u4e0a",
+    "pinyin": "m\u01cesh\u00e0ng",
+    "definition": "Right off"
+  },
+  {
+    "word": "\u5417",
+    "pinyin": "ma",
+    "definition": "auxiliary word"
+  },
+  {
+    "word": "\u4e70",
+    "pinyin": "m\u01cei",
+    "definition": "buy"
+  },
+  {
+    "word": "\u6162",
+    "pinyin": "m\u00e0n",
+    "definition": "slow"
+  },
+  {
+    "word": "\u5fd9",
+    "pinyin": "m\u00e1ng",
+    "definition": "busy"
+  },
+  {
+    "word": "\u6bdb",
+    "pinyin": "m\u00e1o",
+    "definition": "a fractional unit of money in China (measure word)"
+  },
+  {
+    "word": "\u6ca1",
+    "pinyin": "m\u00e9i",
+    "definition": "no"
+  },
+  {
+    "word": "\u6ca1\u5173\u7cfb",
+    "pinyin": "m\u00e9igu\u0101nxi",
+    "definition": "No problem"
+  },
+  {
+    "word": "\u6ca1\u4ec0\u4e48",
+    "pinyin": "m\u00e9i sh\u00e9n me",
+    "definition": "It\u2019s nothing"
+  },
+  {
+    "word": "\u6ca1\u4e8b\u513f",
+    "pinyin": "m\u00e9i sh\u00ecr",
+    "definition": "It\u2019s okay"
+  },
+  {
+    "word": "\u6ca1\u6709",
+    "pinyin": "m\u00e9i y\u01d2u",
+    "definition": "have not; no"
+  },
+  {
+    "word": "\u59b9\u59b9\uff5c\u59b9",
+    "pinyin": "m\u00e8i mei \uff5c m\u00e8i",
+    "definition": "younger sister"
+  },
+  {
+    "word": "\u95e8",
+    "pinyin": "m\u00e9n",
+    "definition": "door"
+  },
+  {
+    "word": "\u95e8\u53e3",
+    "pinyin": "m\u00e9n k\u01d2u",
+    "definition": "doorway"
+  },
+  {
+    "word": "\u95e8\u7968",
+    "pinyin": "m\u00e9n pi\u00e0o",
+    "definition": "tickets"
+  },
+  {
+    "word": "\u4eec",
+    "pinyin": "men \uff08\n p\u00e9ng y\u01d2u men \uff09",
+    "definition": "plural marker for pronouns and a few animate nouns (friends)"
+  },
+  {
+    "word": "\u7c73\u996d",
+    "pinyin": "m\u01d0f\u00e0n",
+    "definition": "Steamed Rice"
+  },
+  {
+    "word": "\u9762\u5305",
+    "pinyin": "mi\u00e0nb\u0101o",
+    "definition": "Bread"
+  },
+  {
+    "word": "\u9762\u6761\u513f",
+    "pinyin": "mi\u00e0n ti\u00e1or",
+    "definition": "noodles"
+  },
+  {
+    "word": "\u540d\u5b57",
+    "pinyin": "m\u00edngzi",
+    "definition": "Name"
+  },
+  {
+    "word": "\u660e\u767d",
+    "pinyin": "m\u00edngbai",
+    "definition": "clear"
+  },
+  {
+    "word": "\u660e\u5e74",
+    "pinyin": "m\u00edng ni\u00e1n",
+    "definition": "next year"
+  },
+  {
+    "word": "\u660e\u5929",
+    "pinyin": "m\u00edngti\u0101n",
+    "definition": "Tomorrow"
+  },
+  {
+    "word": "\u62ff",
+    "pinyin": "n\u00e1",
+    "definition": "take"
+  },
+  {
+    "word": "\u54ea",
+    "pinyin": "n\u01ce",
+    "definition": "which"
+  },
+  {
+    "word": "\u54ea\u91cc",
+    "pinyin": "n\u01ce l\u01d0",
+    "definition": "where"
+  },
+  {
+    "word": "\u54ea\u513f",
+    "pinyin": "n\u01cer",
+    "definition": "where"
+  },
+  {
+    "word": "\u54ea\u4e9b",
+    "pinyin": "n\u01ce xi\u0113",
+    "definition": "which"
+  },
+  {
+    "word": "\u90a3",
+    "pinyin": "n\u00e0",
+    "definition": "that"
+  },
+  {
+    "word": "\u90a3\u8fb9",
+    "pinyin": "n\u00e0 bi\u0101n",
+    "definition": "there"
+  },
+  {
+    "word": "\u90a3\u91cc",
+    "pinyin": "n\u00e0 l\u01d0",
+    "definition": "there"
+  },
+  {
+    "word": "\u90a3\u513f",
+    "pinyin": "n\u00e0r",
+    "definition": "there"
+  },
+  {
+    "word": "\u90a3\u4e9b",
+    "pinyin": "n\u00e0 xi\u0113",
+    "definition": "those"
+  },
+  {
+    "word": "\u5976",
+    "pinyin": "n\u01cei",
+    "definition": "milk"
+  },
+  {
+    "word": "\u5976\u5976",
+    "pinyin": "n\u01ceinai",
+    "definition": "grandma"
+  },
+  {
+    "word": "\u7537",
+    "pinyin": "n\u00e1n",
+    "definition": "Man"
+  },
+  {
+    "word": "\u7537\u5b69\u513f",
+    "pinyin": "n\u00e1n h\u00e1ir",
+    "definition": "boy"
+  },
+  {
+    "word": "\u7537\u670b\u53cb",
+    "pinyin": "n\u00e1n p\u00e9ng y\u01d2u",
+    "definition": "boyfriend"
+  },
+  {
+    "word": "\u7537\u4eba",
+    "pinyin": "n\u00e1n ren",
+    "definition": "man"
+  },
+  {
+    "word": "\u7537\u751f",
+    "pinyin": "n\u00e1n sh\u0113ng",
+    "definition": "boy"
+  },
+  {
+    "word": "\u5357",
+    "pinyin": "n\u00e1n",
+    "definition": "south"
+  },
+  {
+    "word": "\u5357\u8fb9",
+    "pinyin": "n\u00e1n bi\u0101n",
+    "definition": "south; south side"
+  },
+  {
+    "word": "\u96be",
+    "pinyin": "n\u00e1n",
+    "definition": "hard, difficult"
+  },
+  {
+    "word": "\u5462",
+    "pinyin": "ne",
+    "definition": "auxiliary word"
+  },
+  {
+    "word": "\u80fd",
+    "pinyin": "n\u00e9ng",
+    "definition": "can"
+  },
+  {
+    "word": "\u4f60",
+    "pinyin": "n\u01d0",
+    "definition": "you"
+  },
+  {
+    "word": "\u4f60\u4eec",
+    "pinyin": "n\u01d0 men",
+    "definition": "you"
+  },
+  {
+    "word": "\u5e74",
+    "pinyin": "ni\u00e1n",
+    "definition": "year"
+  },
+  {
+    "word": "\u60a8",
+    "pinyin": "n\u00edn",
+    "definition": "you"
+  },
+  {
+    "word": "\u725b\u5976",
+    "pinyin": "ni\u00fan\u01cei",
+    "definition": "milk"
+  },
+  {
+    "word": "\u5973",
+    "pinyin": "n\u01da",
+    "definition": "woman"
+  },
+  {
+    "word": "\u5973\u513f",
+    "pinyin": "n\u01da\u2019\u00e9r",
+    "definition": "daughter"
+  },
+  {
+    "word": "\u5973\u5b69\u513f",
+    "pinyin": "n\u01da h\u00e1ir",
+    "definition": "girl"
+  },
+  {
+    "word": "\u5973\u670b\u53cb",
+    "pinyin": "n\u01da p\u00e9ng y\u01d2u",
+    "definition": "girlfriend"
+  },
+  {
+    "word": "\u5973\u4eba",
+    "pinyin": "n\u01da ren",
+    "definition": "woman"
+  },
+  {
+    "word": "\u5973\u751f",
+    "pinyin": "n\u01da sh\u0113ng",
+    "definition": "girl"
+  },
+  {
+    "word": "\u65c1\u8fb9",
+    "pinyin": "p\u00e1ngbi\u0101n",
+    "definition": "Side"
+  },
+  {
+    "word": "\u8dd1",
+    "pinyin": "p\u01ceo",
+    "definition": "run"
+  },
+  {
+    "word": "\u670b\u53cb",
+    "pinyin": "p\u00e9ngyou",
+    "definition": "Friend"
+  },
+  {
+    "word": "\u7968",
+    "pinyin": "pi\u00e0o",
+    "definition": "ticket"
+  },
+  {
+    "word": "\u4e03",
+    "pinyin": "q\u012b",
+    "definition": "Seven"
+  },
+  {
+    "word": "\u8d77",
+    "pinyin": "q\u01d0",
+    "definition": "get up; start; rise"
+  },
+  {
+    "word": "\u8d77\u5e8a",
+    "pinyin": "q\u01d0chu\u00e1ng",
+    "definition": "Get up"
+  },
+  {
+    "word": "\u8d77\u6765",
+    "pinyin": "q\u01d0l\u00e1i",
+    "definition": "get up"
+  },
+  {
+    "word": "\u6c7d\u8f66",
+    "pinyin": "q\u00ec ch\u0113",
+    "definition": "car"
+  },
+  {
+    "word": "\u524d",
+    "pinyin": "qi\u00e1n",
+    "definition": "front"
+  },
+  {
+    "word": "\u524d\u8fb9",
+    "pinyin": "qi\u00e1n bi\u0101n",
+    "definition": "in front"
+  },
+  {
+    "word": "\u524d\u5929",
+    "pinyin": "qi\u00e1n ti\u0101n",
+    "definition": "the day before yesterday"
+  },
+  {
+    "word": "\u94b1",
+    "pinyin": "qi\u00e1n",
+    "definition": "money"
+  },
+  {
+    "word": "\u94b1\u5305",
+    "pinyin": "qi\u00e1n b\u0101o",
+    "definition": "wallet"
+  },
+  {
+    "word": "\u8bf7",
+    "pinyin": "q\u01d0ng",
+    "definition": "please"
+  },
+  {
+    "word": "\u8bf7\u5047",
+    "pinyin": "q\u01d0ngji\u00e0",
+    "definition": "ask for leave"
+  },
+  {
+    "word": "\u8bf7\u8fdb",
+    "pinyin": "q\u01d0ng j\u00ecn",
+    "definition": "please come in"
+  },
+  {
+    "word": "\u8bf7\u95ee",
+    "pinyin": "q\u01d0ng w\u00e8n",
+    "definition": "excuse me"
+  },
+  {
+    "word": "\u8bf7\u5750",
+    "pinyin": "q\u01d0ng zu\u00f2",
+    "definition": "please have a seat"
+  },
+  {
+    "word": "\u7403",
+    "pinyin": "qi\u00fa",
+    "definition": "ball"
+  },
+  {
+    "word": "\u53bb",
+    "pinyin": "q\u00f9",
+    "definition": "go"
+  },
+  {
+    "word": "\u53bb\u5e74",
+    "pinyin": "q\u00f9ni\u00e1n",
+    "definition": "Last year"
+  },
+  {
+    "word": "\u70ed",
+    "pinyin": "r\u00e8",
+    "definition": "heat"
+  },
+  {
+    "word": "\u4eba",
+    "pinyin": "r\u00e9n",
+    "definition": "people"
+  },
+  {
+    "word": "\u8ba4\u8bc6",
+    "pinyin": "r\u00e8nshi",
+    "definition": "know"
+  },
+  {
+    "word": "\u8ba4\u771f",
+    "pinyin": "r\u00e8nzh\u0113n",
+    "definition": "earnest"
+  },
+  {
+    "word": "\u65e5",
+    "pinyin": "r\u00ec",
+    "definition": "date"
+  },
+  {
+    "word": "\u65e5\u671f",
+    "pinyin": "r\u00ecq\u012b",
+    "definition": "Date"
+  },
+  {
+    "word": "\u8089",
+    "pinyin": "r\u00f2u",
+    "definition": "meat"
+  },
+  {
+    "word": "\u4e09",
+    "pinyin": "s\u0101n",
+    "definition": "Three"
+  },
+  {
+    "word": "\u5c71",
+    "pinyin": "sh\u0101n",
+    "definition": "mountain"
+  },
+  {
+    "word": "\u5546\u573a",
+    "pinyin": "sh\u0101ng ch\u01ceng",
+    "definition": "mall; shopping mall"
+  },
+  {
+    "word": "\u5546\u5e97",
+    "pinyin": "sh\u0101ngdi\u00e0n",
+    "definition": "Shop"
+  },
+  {
+    "word": "\u4e0a",
+    "pinyin": "sh\u00e0ng",
+    "definition": "upper"
+  },
+  {
+    "word": "\u4e0a\u73ed",
+    "pinyin": "sh\u00e0ngb\u0101n",
+    "definition": "go to work"
+  },
+  {
+    "word": "\u4e0a\u8fb9",
+    "pinyin": "sh\u00e0ng bi\u0101n",
+    "definition": "above; on"
+  },
+  {
+    "word": "\u4e0a\u8f66",
+    "pinyin": "sh\u00e0ng ch\u0113",
+    "definition": "get on"
+  },
+  {
+    "word": "\u4e0a\u6b21",
+    "pinyin": "sh\u00e0ng c\u00ec",
+    "definition": "last time"
+  },
+  {
+    "word": "\u4e0a\u8bfe",
+    "pinyin": "sh\u00e0ng k\u00e8",
+    "definition": "attend class; have a class"
+  },
+  {
+    "word": "\u4e0a\u7f51",
+    "pinyin": "sh\u00e0ngw\u01ceng",
+    "definition": "Surf the Internet"
+  },
+  {
+    "word": "\u4e0a\u5348",
+    "pinyin": "sh\u00e0ngw\u01d4",
+    "definition": "morning"
+  },
+  {
+    "word": "\u4e0a\u5b66",
+    "pinyin": "sh\u00e0ng xu\u00e9",
+    "definition": "go to school"
+  },
+  {
+    "word": "\u5c11",
+    "pinyin": "sh\u01ceo",
+    "definition": "less"
+  },
+  {
+    "word": "\u8c01",
+    "pinyin": "sh\u00e9i",
+    "definition": "who"
+  },
+  {
+    "word": "\u8eab\u4e0a",
+    "pinyin": "sh\u0113n sh\u00e0ng",
+    "definition": "body; on one\u2019s body"
+  },
+  {
+    "word": "\u8eab\u4f53",
+    "pinyin": "sh\u0113nt\u01d0",
+    "definition": "body"
+  },
+  {
+    "word": "\u4ec0\u4e48",
+    "pinyin": "sh\u00e9nme",
+    "definition": "What"
+  },
+  {
+    "word": "\u751f\u75c5",
+    "pinyin": "sh\u0113ngb\u00ecng",
+    "definition": "Fall ill"
+  },
+  {
+    "word": "\u751f\u6c14",
+    "pinyin": "sh\u0113ngq\u00ec",
+    "definition": "get angry"
+  },
+  {
+    "word": "\u751f\u65e5",
+    "pinyin": "sh\u0113ngr\u00ec",
+    "definition": "Birthday"
+  },
+  {
+    "word": "\u5341",
+    "pinyin": "sh\u00ed",
+    "definition": "Ten"
+  },
+  {
+    "word": "\u65f6\u5019",
+    "pinyin": "sh\u00edhou",
+    "definition": "time"
+  },
+  {
+    "word": "\u65f6\u95f4",
+    "pinyin": "sh\u00edji\u0101n",
+    "definition": "time"
+  },
+  {
+    "word": "\u4e8b",
+    "pinyin": "sh\u00ec",
+    "definition": "thing"
+  },
+  {
+    "word": "\u8bd5",
+    "pinyin": "sh\u00ec",
+    "definition": "try"
+  },
+  {
+    "word": "\u662f",
+    "pinyin": "sh\u00ec",
+    "definition": "yes"
+  },
+  {
+    "word": "\u662f\u4e0d\u662f",
+    "pinyin": "sh\u00ec b\u00fa sh\u00ec",
+    "definition": "isn\u2019t it?"
+  },
+  {
+    "word": "\u624b",
+    "pinyin": "sh\u01d2u",
+    "definition": "hand"
+  },
+  {
+    "word": "\u624b\u673a",
+    "pinyin": "sh\u01d2uj\u012b",
+    "definition": "Mobile phone"
+  },
+  {
+    "word": "\u4e66",
+    "pinyin": "sh\u016b",
+    "definition": "book"
+  },
+  {
+    "word": "\u4e66\u5305",
+    "pinyin": "sh\u016b b\u0101o",
+    "definition": "school bag"
+  },
+  {
+    "word": "\u4e66\u5e97",
+    "pinyin": "sh\u016b di\u00e0n",
+    "definition": "bookstore"
+  },
+  {
+    "word": "\u6811",
+    "pinyin": "sh\u00f9",
+    "definition": "tree"
+  },
+  {
+    "word": "\u6c34",
+    "pinyin": "shu\u01d0",
+    "definition": "water"
+  },
+  {
+    "word": "\u6c34\u679c",
+    "pinyin": "shu\u01d0gu\u01d2",
+    "definition": "Fruits"
+  },
+  {
+    "word": "\u7761",
+    "pinyin": "shu\u00ec",
+    "definition": "sleep"
+  },
+  {
+    "word": "\u7761\u89c9",
+    "pinyin": "shu\u00ecji\u00e0o",
+    "definition": "sleep"
+  },
+  {
+    "word": "\u8bf4",
+    "pinyin": "shu\u014d",
+    "definition": "speak"
+  },
+  {
+    "word": "\u8bf4\u8bdd",
+    "pinyin": "shu\u014dhu\u00e0",
+    "definition": "talk"
+  },
+  {
+    "word": "\u56db",
+    "pinyin": "s\u00ec",
+    "definition": "Four"
+  },
+  {
+    "word": "\u9001",
+    "pinyin": "s\u00f2ng",
+    "definition": "give"
+  },
+  {
+    "word": "\u5c81",
+    "pinyin": "su\u00ec",
+    "definition": "year, age"
+  },
+  {
+    "word": "\u4ed6",
+    "pinyin": "t\u0101",
+    "definition": "he"
+  },
+  {
+    "word": "\u4ed6\u4eec",
+    "pinyin": "t\u0101 men",
+    "definition": "they"
+  },
+  {
+    "word": "\u5979",
+    "pinyin": "t\u0101",
+    "definition": "she"
+  },
+  {
+    "word": "\u5979\u4eec",
+    "pinyin": "t\u0101 men",
+    "definition": "they"
+  },
+  {
+    "word": "\u592a",
+    "pinyin": "t\u00e0i",
+    "definition": "too"
+  },
+  {
+    "word": "\u5929",
+    "pinyin": "ti\u0101n",
+    "definition": "day"
+  },
+  {
+    "word": "\u5929\u6c14",
+    "pinyin": "ti\u0101nq\u00ec",
+    "definition": "weather"
+  },
+  {
+    "word": "\u542c",
+    "pinyin": "t\u012bng",
+    "definition": "hear"
+  },
+  {
+    "word": "\u542c\u5230",
+    "pinyin": "t\u012bng d\u00e0o",
+    "definition": "hear"
+  },
+  {
+    "word": "\u542c\u89c1",
+    "pinyin": "t\u012bng ji\u00e0n",
+    "definition": "hear"
+  },
+  {
+    "word": "\u542c\u5199",
+    "pinyin": "t\u012bng xi\u011b",
+    "definition": "dictation; dictate"
+  },
+  {
+    "word": "\u540c\u5b66",
+    "pinyin": "t\u00f3ngxu\u00e9",
+    "definition": "Classmate"
+  },
+  {
+    "word": "\u56fe\u4e66\u9986",
+    "pinyin": "t\u00fash\u016bgu\u01cen",
+    "definition": "Library"
+  },
+  {
+    "word": "\u5916",
+    "pinyin": "w\u00e0i",
+    "definition": "abroad, outside"
+  },
+  {
+    "word": "\u5916\u8fb9",
+    "pinyin": "w\u00e0i bi\u0101n",
+    "definition": "outside"
+  },
+  {
+    "word": "\u5916\u56fd",
+    "pinyin": "w\u00e0i gu\u00f3",
+    "definition": "foreign country"
+  },
+  {
+    "word": "\u5916\u8bed",
+    "pinyin": "w\u00e0i y\u01d4",
+    "definition": "foreign language"
+  },
+  {
+    "word": "\u73a9\u513f",
+    "pinyin": "w\u00e1nr",
+    "definition": "play"
+  },
+  {
+    "word": "\u665a",
+    "pinyin": "w\u01cen",
+    "definition": "late"
+  },
+  {
+    "word": "\u665a\u996d",
+    "pinyin": "w\u01cen f\u00e0n",
+    "definition": "dinner"
+  },
+  {
+    "word": "\u665a\u4e0a",
+    "pinyin": "w\u01censhang",
+    "definition": "Night"
+  },
+  {
+    "word": "\u7f51\u4e0a",
+    "pinyin": "w\u01ceng sh\u00e0ng",
+    "definition": "online"
+  },
+  {
+    "word": "\u7f51\u53cb",
+    "pinyin": "w\u01ceng y\u01d2u",
+    "definition": "net friend"
+  },
+  {
+    "word": "\u5fd8",
+    "pinyin": "w\u00e0ng",
+    "definition": "forget"
+  },
+  {
+    "word": "\u5fd8\u8bb0",
+    "pinyin": "w\u00e0ngj\u00ec",
+    "definition": "forget"
+  },
+  {
+    "word": "\u95ee",
+    "pinyin": "w\u00e8n",
+    "definition": "ask"
+  },
+  {
+    "word": "\u6211",
+    "pinyin": "w\u01d2",
+    "definition": "I"
+  },
+  {
+    "word": "\u6211\u4eec",
+    "pinyin": "w\u01d2men",
+    "definition": "We"
+  },
+  {
+    "word": "\u4e94",
+    "pinyin": "w\u01d4",
+    "definition": "Five"
+  },
+  {
+    "word": "\u5348\u996d",
+    "pinyin": "w\u01d4 f\u00e0n",
+    "definition": "lunch"
+  },
+  {
+    "word": "\u897f",
+    "pinyin": "x\u012b",
+    "definition": "west"
+  },
+  {
+    "word": "\u897f\u8fb9",
+    "pinyin": "x\u012b bi\u0101n",
+    "definition": "west; west side"
+  },
+  {
+    "word": "\u6d17",
+    "pinyin": "x\u01d0",
+    "definition": "wash"
+  },
+  {
+    "word": "\u6d17\u624b\u95f4",
+    "pinyin": "x\u01d0sh\u01d2uji\u0101n",
+    "definition": "Restroom"
+  },
+  {
+    "word": "\u559c\u6b22",
+    "pinyin": "x\u01d0huan",
+    "definition": "like"
+  },
+  {
+    "word": "\u4e0b",
+    "pinyin": "xi\u00e0",
+    "definition": "below; under; next; go down; get off"
+  },
+  {
+    "word": "\u4e0b\u73ed",
+    "pinyin": "xi\u00e0 b\u0101n",
+    "definition": "get off work"
+  },
+  {
+    "word": "\u4e0b\u8fb9",
+    "pinyin": "xi\u00e0 bi\u0101n",
+    "definition": "below; under"
+  },
+  {
+    "word": "\u4e0b\u8f66",
+    "pinyin": "xi\u00e0 ch\u0113",
+    "definition": "get off"
+  },
+  {
+    "word": "\u4e0b\u6b21",
+    "pinyin": "xi\u00e0 c\u00ec",
+    "definition": "next time"
+  },
+  {
+    "word": "\u4e0b\u8bfe",
+    "pinyin": "xi\u00e0 k\u00e8",
+    "definition": "finish class"
+  },
+  {
+    "word": "\u4e0b\u5348",
+    "pinyin": "xi\u00e0w\u01d4",
+    "definition": "Afternoon"
+  },
+  {
+    "word": "\u4e0b\u96e8",
+    "pinyin": "xi\u00e0y\u01d4",
+    "definition": "rain"
+  },
+  {
+    "word": "\u5148",
+    "pinyin": "xi\u0101n",
+    "definition": "before"
+  },
+  {
+    "word": "\u5148\u751f",
+    "pinyin": "xi\u0101nsheng",
+    "definition": "Sir"
+  },
+  {
+    "word": "\u73b0\u5728",
+    "pinyin": "xi\u00e0nz\u00e0i",
+    "definition": "Now"
+  },
+  {
+    "word": "\u60f3",
+    "pinyin": "xi\u01ceng",
+    "definition": "think"
+  },
+  {
+    "word": "\u5c0f",
+    "pinyin": "xi\u01ceo",
+    "definition": "Small"
+  },
+  {
+    "word": "\u5c0f\u5b69\u513f",
+    "pinyin": "xi\u01ceo h\u00e1ir",
+    "definition": "child; kid"
+  },
+  {
+    "word": "\u5c0f\u59d0",
+    "pinyin": "xi\u01ceoji\u011b",
+    "definition": "Miss"
+  },
+  {
+    "word": "\u5c0f\u670b\u53cb",
+    "pinyin": "xi\u01ceo p\u00e9ng y\u01d2u",
+    "definition": "child; kid"
+  },
+  {
+    "word": "\u5c0f\u65f6",
+    "pinyin": "xi\u01ceosh\u00ed",
+    "definition": "hour"
+  },
+  {
+    "word": "\u5c0f\u5b66",
+    "pinyin": "xi\u01ceo xu\u00e9",
+    "definition": "primary school; elementary school"
+  },
+  {
+    "word": "\u5c0f\u5b66\u751f",
+    "pinyin": "xi\u01ceo xu\u00e9 sh\u0113ng",
+    "definition": "elementary school student"
+  },
+  {
+    "word": "\u7b11",
+    "pinyin": "xi\u00e0o",
+    "definition": "laugh"
+  },
+  {
+    "word": "\u5199",
+    "pinyin": "xi\u011b",
+    "definition": "write"
+  },
+  {
+    "word": "\u8c22\u8c22",
+    "pinyin": "xi\u00e8xie",
+    "definition": "Thank you"
+  },
+  {
+    "word": "\u65b0",
+    "pinyin": "x\u012bn",
+    "definition": "new"
+  },
+  {
+    "word": "\u65b0\u5e74",
+    "pinyin": "x\u012bn ni\u00e1n",
+    "definition": "New Year"
+  },
+  {
+    "word": "\u661f\u671f",
+    "pinyin": "x\u012bngq\u012b",
+    "definition": "week"
+  },
+  {
+    "word": "\u661f\u671f\u65e5",
+    "pinyin": "x\u012bng q\u012b r\u00ec",
+    "definition": "Sunday"
+  },
+  {
+    "word": "\u661f\u671f\u5929",
+    "pinyin": "x\u012bng q\u012b ti\u0101n",
+    "definition": "Sunday"
+  },
+  {
+    "word": "\u884c",
+    "pinyin": "x\u00edng",
+    "definition": "That\u2019s ok"
+  },
+  {
+    "word": "\u4f11\u606f",
+    "pinyin": "xi\u016bxi",
+    "definition": "Rest"
+  },
+  {
+    "word": "\u5b66",
+    "pinyin": "xu\u00e9",
+    "definition": "learn; study"
+  },
+  {
+    "word": "\u5b66\u751f",
+    "pinyin": "xu\u00e9sheng",
+    "definition": "Student"
+  },
+  {
+    "word": "\u5b66\u4e60",
+    "pinyin": "xu\u00e9x\u00ed",
+    "definition": "Study"
+  },
+  {
+    "word": "\u5b66\u6821",
+    "pinyin": "xu\u00e9xi\u00e0o",
+    "definition": "School"
+  },
+  {
+    "word": "\u5b66\u9662",
+    "pinyin": "xu\u00e9 yu\u00e0n",
+    "definition": "college; academy"
+  },
+  {
+    "word": "\u8981",
+    "pinyin": "y\u00e0o",
+    "definition": "want"
+  },
+  {
+    "word": "\u7237\u7237",
+    "pinyin": "y\u00e9ye",
+    "definition": "grandpa"
+  },
+  {
+    "word": "\u4e5f",
+    "pinyin": "y\u011b",
+    "definition": "also"
+  },
+  {
+    "word": "\u9875",
+    "pinyin": "y\u00e8",
+    "definition": "page"
+  },
+  {
+    "word": "\u4e00",
+    "pinyin": "y\u012b",
+    "definition": "One"
+  },
+  {
+    "word": "\u8863\u670d",
+    "pinyin": "y\u012bfu",
+    "definition": "clothes"
+  },
+  {
+    "word": "\u533b\u751f",
+    "pinyin": "y\u012bsh\u0113ng",
+    "definition": "Doctor"
+  },
+  {
+    "word": "\u533b\u9662",
+    "pinyin": "y\u012byu\u00e0n",
+    "definition": "Hospital"
+  },
+  {
+    "word": "\u4e00\u534a",
+    "pinyin": "y\u00ed b\u00e0n",
+    "definition": "half"
+  },
+  {
+    "word": "\u4e00\u4f1a\u513f",
+    "pinyin": "y\u00edhu\u00ecr",
+    "definition": "A little while"
+  },
+  {
+    "word": "\u4e00\u5757\u513f",
+    "pinyin": "y\u00ed ku\u00e0ir",
+    "definition": "together"
+  },
+  {
+    "word": "\u4e00\u4e0b\u513f",
+    "pinyin": "y\u00ed xi\u00e0r",
+    "definition": "a little bit"
+  },
+  {
+    "word": "\u4e00\u6837",
+    "pinyin": "y\u00edy\u00e0ng",
+    "definition": "equally"
+  },
+  {
+    "word": "\u4e00\u8fb9",
+    "pinyin": "y\u00ecbi\u0101n",
+    "definition": "One side"
+  },
+  {
+    "word": "\u4e00\u70b9\u513f",
+    "pinyin": "y\u012bdi\u01cenr",
+    "definition": "a little bit"
+  },
+  {
+    "word": "\u4e00\u8d77",
+    "pinyin": "y\u00ecq\u01d0",
+    "definition": "together"
+  },
+  {
+    "word": "\u4e00\u4e9b",
+    "pinyin": "y\u00ec xi\u0113",
+    "definition": "some"
+  },
+  {
+    "word": "\u7528",
+    "pinyin": "y\u00f2ng",
+    "definition": "use"
+  },
+  {
+    "word": "\u6709",
+    "pinyin": "y\u01d2u",
+    "definition": "have"
+  },
+  {
+    "word": "\u6709\u7684",
+    "pinyin": "y\u01d2u de",
+    "definition": "some"
+  },
+  {
+    "word": "\u6709\u540d",
+    "pinyin": "y\u01d2um\u00edng",
+    "definition": "Famous"
+  },
+  {
+    "word": "\u6709\u65f6\u5019\uff5c\u6709\u65f6",
+    "pinyin": "y\u01d2u sh\u00ed h\u00f2u \uff5c y\u01d2u sh\u00ed",
+    "definition": "sometimes"
+  },
+  {
+    "word": "\u6709\uff08\u4e00\uff09\u4e9b",
+    "pinyin": "y\u01d2u \uff08 y\u00ec \uff09 xi\u0113",
+    "definition": "some"
+  },
+  {
+    "word": "\u6709\u7528",
+    "pinyin": "y\u01d2u y\u00f2ng",
+    "definition": "useful"
+  },
+  {
+    "word": "\u53f3",
+    "pinyin": "y\u00f2u",
+    "definition": "right"
+  },
+  {
+    "word": "\u53f3\u8fb9",
+    "pinyin": "y\u00f2ubian",
+    "definition": "Right"
+  },
+  {
+    "word": "\u96e8",
+    "pinyin": "y\u01d4",
+    "definition": "rain"
+  },
+  {
+    "word": "\u5143",
+    "pinyin": "yu\u00e1n",
+    "definition": "element; Yuan"
+  },
+  {
+    "word": "\u8fdc",
+    "pinyin": "yu\u01cen",
+    "definition": "far"
+  },
+  {
+    "word": "\u6708",
+    "pinyin": "yu\u00e8",
+    "definition": "month"
+  },
+  {
+    "word": "\u518d",
+    "pinyin": "z\u00e0i",
+    "definition": "again"
+  },
+  {
+    "word": "\u518d\u89c1",
+    "pinyin": "z\u00e0iji\u00e0n",
+    "definition": "Bye"
+  },
+  {
+    "word": "\u5728",
+    "pinyin": "z\u00e0i",
+    "definition": "stay; in process of"
+  },
+  {
+    "word": "\u5728\u5bb6",
+    "pinyin": "z\u00e0i ji\u0101",
+    "definition": "at home"
+  },
+  {
+    "word": "\u65e9",
+    "pinyin": "z\u01ceo",
+    "definition": "early"
+  },
+  {
+    "word": "\u65e9\u996d",
+    "pinyin": "z\u01ceo f\u00e0n",
+    "definition": "breakfast"
+  },
+  {
+    "word": "\u65e9\u4e0a",
+    "pinyin": "z\u01ceoshang",
+    "definition": "Morning"
+  },
+  {
+    "word": "\u600e\u4e48",
+    "pinyin": "z\u011bnme",
+    "definition": "How"
+  },
+  {
+    "word": "\u7ad9",
+    "pinyin": "zh\u00e0n",
+    "definition": "station"
+  },
+  {
+    "word": "\u627e",
+    "pinyin": "zh\u01ceo",
+    "definition": "look for"
+  },
+  {
+    "word": "\u627e\u5230",
+    "pinyin": "zh\u01ceo d\u00e0o",
+    "definition": "find"
+  },
+  {
+    "word": "\u8fd9",
+    "pinyin": "zh\u00e8",
+    "definition": "Here (here)"
+  },
+  {
+    "word": "\u8fd9\u8fb9",
+    "pinyin": "zh\u00e8 bi\u0101n",
+    "definition": "here"
+  },
+  {
+    "word": "\u8fd9\u91cc",
+    "pinyin": "zh\u00e8 l\u01d0",
+    "definition": "here"
+  },
+  {
+    "word": "\u8fd9\u513f",
+    "pinyin": "zh\u00e8r",
+    "definition": "here"
+  },
+  {
+    "word": "\u8fd9\u4e9b",
+    "pinyin": "zh\u00e8 xi\u0113",
+    "definition": "these"
+  },
+  {
+    "word": "\u7740",
+    "pinyin": "zhe",
+    "definition": "in process of"
+  },
+  {
+    "word": "\u771f",
+    "pinyin": "zh\u0113n",
+    "definition": "really"
+  },
+  {
+    "word": "\u771f\u7684",
+    "pinyin": "zh\u0113n de",
+    "definition": "really"
+  },
+  {
+    "word": "\u6b63",
+    "pinyin": "zh\u00e8ng",
+    "definition": "just; exactly"
+  },
+  {
+    "word": "\u6b63\u5728",
+    "pinyin": "zh\u00e8ngz\u00e0i",
+    "definition": "in process of"
+  },
+  {
+    "word": "\u77e5\u9053",
+    "pinyin": "zh\u012bd\u00e0o",
+    "definition": "know"
+  },
+  {
+    "word": "\u77e5\u8bc6",
+    "pinyin": "zh\u012bshi",
+    "definition": "knowledge"
+  },
+  {
+    "word": "\u4e2d",
+    "pinyin": "zh\u014dng",
+    "definition": "middle; in"
+  },
+  {
+    "word": "\u4e2d\u56fd",
+    "pinyin": "zh\u014dnggu\u00f3",
+    "definition": "China"
+  },
+  {
+    "word": "\u4e2d\u95f4",
+    "pinyin": "zh\u014dngji\u0101n",
+    "definition": "Middle"
+  },
+  {
+    "word": "\u4e2d\u6587",
+    "pinyin": "zh\u014dngw\u00e9n",
+    "definition": "Chinese"
+  },
+  {
+    "word": "\u4e2d\u5348",
+    "pinyin": "zh\u014dngw\u01d4",
+    "definition": "Noon"
+  },
+  {
+    "word": "\u4e2d\u5b66",
+    "pinyin": "zh\u014dng xu\u00e9",
+    "definition": "middle school"
+  },
+  {
+    "word": "\u4e2d\u5b66\u751f",
+    "pinyin": "zh\u014dng xu\u00e9 sh\u0113ng",
+    "definition": "middle School student"
+  },
+  {
+    "word": "\u91cd",
+    "pinyin": "zh\u00f2ng",
+    "definition": "heavy"
+  },
+  {
+    "word": "\u91cd\u8981",
+    "pinyin": "zh\u00f2ngy\u00e0o",
+    "definition": "important"
+  },
+  {
+    "word": "\u4f4f",
+    "pinyin": "zh\u00f9",
+    "definition": "live"
+  },
+  {
+    "word": "\u51c6\u5907",
+    "pinyin": "zh\u01d4nb\u00e8i",
+    "definition": "Get ready"
+  },
+  {
+    "word": "\u684c\u5b50",
+    "pinyin": "zhu\u014dzi",
+    "definition": "Table"
+  },
+  {
+    "word": "\u5b57",
+    "pinyin": "z\u00ec",
+    "definition": "word, character"
+  },
+  {
+    "word": "\u5b50",
+    "pinyin": "zi \uff08 zhu\u014d zi \uff09",
+    "definition": "noun suffix (table)"
+  },
+  {
+    "word": "\u8d70",
+    "pinyin": "z\u01d2u",
+    "definition": "go, walk"
+  },
+  {
+    "word": "\u8d70\u8def",
+    "pinyin": "z\u01d2u l\u00f9",
+    "definition": "walk"
+  },
+  {
+    "word": "\u6700",
+    "pinyin": "zu\u00ec",
+    "definition": "most"
+  },
+  {
+    "word": "\u6700\u597d",
+    "pinyin": "zu\u00ech\u01ceo",
+    "definition": "Best"
+  },
+  {
+    "word": "\u6700\u540e",
+    "pinyin": "zu\u00ech\u00f2u",
+    "definition": "Last"
+  },
+  {
+    "word": "\u6628\u5929",
+    "pinyin": "zu\u00f3ti\u0101n",
+    "definition": "Yesterday"
+  },
+  {
+    "word": "\u5de6",
+    "pinyin": "zu\u01d2",
+    "definition": "left"
+  },
+  {
+    "word": "\u5de6\u8fb9",
+    "pinyin": "zu\u01d2bian",
+    "definition": "left"
+  },
+  {
+    "word": "\u5750",
+    "pinyin": "zu\u00f2",
+    "definition": "sit"
+  },
+  {
+    "word": "\u5750\u4e0b",
+    "pinyin": "zu\u00f2 xi\u00e0",
+    "definition": "sit down"
+  },
+  {
+    "word": "\u505a",
+    "pinyin": "zu\u00f2",
+    "definition": "do"
+  }
+]

@@ -1,8 +1,9 @@
 import argparse
 
 from django.core.management import base
+from matplotlib import pyplot as plt
 
-from lexable.lib import corpus_stats, unicode_blocks
+from lexable.lib import corpus_stats, hsk_levels, unicode_blocks
 from lexable.models import (
     document as document_lib,
     language,
@@ -27,6 +28,8 @@ class Command(base.BaseCommand):
             .prefetch_related("documents__sections__sentences")
             .filter(language=language.Language.Mandarin.value)
         )
+
+        scatter_points = []
 
         for collection in mandarin_collections:
             character_frequencies = {}
@@ -55,8 +58,27 @@ class Command(base.BaseCommand):
                 if unicode_blocks.get_block(c) is unicode_blocks.UnicodeCodeblocks.CJK_IDEOGRAPHS.value
             ]
 
+            logogram_density = corpus_stats.lexical_density(cjk_counts, WINDOW)
+
+            hsk_levels_by_char = hsk_levels.get_character_hsk_levels()
+            hsk_level_counts = {}
+            for c, count in character_frequencies.items():
+                if unicode_blocks.get_block(c) is unicode_blocks.UnicodeCodeblocks.CJK_IDEOGRAPHS.value:
+                    # If not in first 6 HSK levels, consider it 8
+                    level = hsk_levels_by_char.get(c, 8)
+
+                    hsk_level_counts[level] = hsk_level_counts.get(level, 0) + count
+            avg_hsk_numerator = sum(level*count for level, count in hsk_level_counts.items())
+            avg_hsk = avg_hsk_numerator/sum(hsk_level_counts.values())
+
             print(collection.title)
             print(f"    Total length: {sum(character_frequencies.values()):>6}")
             print(f"    Length in CJK characters: {sum(cjk_counts):>6}")
             print(f"    Number of distinct CJK characters: {len(cjk_counts):>4}")
-            print(f"    Logogram density (window = {1000}): {corpus_stats.lexical_density(cjk_counts, WINDOW)}")
+            print(f"    Logogram density (window = {1000}): {logogram_density}")
+            print(f"    Average character HSK level: {avg_hsk:.2f}")
+
+            scatter_points.append((logogram_density, avg_hsk))
+
+        plt.scatter(*zip(*scatter_points))
+        plt.show()
