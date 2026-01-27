@@ -12,6 +12,8 @@ from lexable.models import (
 
 
 WINDOW = 1000
+LOGOGRAM_DENSITY_THRESHOLD = 405
+AVG_HSK_LEVEL_THRESHOLD = 2.15
 
 
 class Command(base.BaseCommand):
@@ -71,14 +73,15 @@ class Command(base.BaseCommand):
             avg_hsk_numerator = sum(level*count for level, count in hsk_level_counts.items())
             avg_hsk = avg_hsk_numerator/sum(hsk_level_counts.values())
 
-            print(collection.title)
-            print(f"    Total length: {sum(character_frequencies.values()):>6}")
-            print(f"    Length in CJK characters: {sum(cjk_counts):>6}")
-            print(f"    Number of distinct CJK characters: {len(cjk_counts):>4}")
-            print(f"    Logogram density (window = {1000}): {logogram_density}")
-            print(f"    Average character HSK level: {avg_hsk:.2f}")
-
             scatter_points.append((logogram_density, avg_hsk))
+
+            if logogram_density <= LOGOGRAM_DENSITY_THRESHOLD and avg_hsk <= AVG_HSK_LEVEL_THRESHOLD:
+                print(collection.title)
+                print(f"    Total length: {sum(character_frequencies.values()):>6}")
+                print(f"    Length in CJK characters: {sum(cjk_counts):>6}")
+                print(f"    Number of distinct CJK characters: {len(cjk_counts):>4}")
+                print(f"    Logogram density (window = {1000}): {logogram_density}")
+                print(f"    Average character HSK level: {avg_hsk:.2f}")
 
         plt.scatter(*zip(*scatter_points))
         plt.show()
