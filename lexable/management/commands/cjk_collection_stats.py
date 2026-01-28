@@ -13,7 +13,18 @@ from lexable.models import (
 
 WINDOW = 1000
 LOGOGRAM_DENSITY_THRESHOLD = 405
-AVG_HSK_LEVEL_THRESHOLD = 2.15
+AVG_HSK_LEVEL_THRESHOLD = 2.5
+
+LEVEL_SCORES = {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7-9": 8,
+    None: 11,
+}
 
 
 class Command(base.BaseCommand):
@@ -32,6 +43,7 @@ class Command(base.BaseCommand):
         )
 
         scatter_points = []
+        hsk_levels_by_char = hsk.get_character_hsk_levels()
 
         for collection in mandarin_collections:
             character_frequencies = {}
@@ -62,15 +74,13 @@ class Command(base.BaseCommand):
 
             logogram_density = corpus_stats.lexical_density(cjk_counts, WINDOW)
 
-            hsk_levels_by_char = hsk_levels.get_character_hsk_levels()
             hsk_level_counts = {}
             for c, count in character_frequencies.items():
                 if unicode_blocks.get_block(c) is unicode_blocks.UnicodeCodeblocks.CJK_IDEOGRAPHS.value:
-                    # If not in first 6 HSK levels, consider it 8
-                    level = hsk_levels_by_char.get(c, 8)
-
+                    level = hsk_levels_by_char.get(c)
                     hsk_level_counts[level] = hsk_level_counts.get(level, 0) + count
-            avg_hsk_numerator = sum(level*count for level, count in hsk_level_counts.items())
+
+            avg_hsk_numerator = sum(LEVEL_SCORES[level]*count for level, count in hsk_level_counts.items())
             avg_hsk = avg_hsk_numerator/sum(hsk_level_counts.values())
 
             scatter_points.append((logogram_density, avg_hsk))
