@@ -2,7 +2,7 @@ import argparse
 
 from django.core.management import base
 
-from lexable.lib import hsk_levels, unicode_blocks
+from lexable.lib import hsk, unicode_blocks
 from lexable.models import document as document_lib, sentence as sentence_lib
 
 

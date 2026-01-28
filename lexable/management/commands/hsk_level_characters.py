@@ -1,6 +1,6 @@
 from django.core.management import base
 
-from lexable.lib import hsk_levels
+from lexable.lib import hsk
 
 
 class Command(base.BaseCommand):
@@ -14,5 +14,5 @@ class Command(base.BaseCommand):
         for _, level in levels.items():
             count_per_level[level] = count_per_level.get(level, 0) + 1
 
-        for i in range(1, 7):
-            print(f"HSK level {i}: {count_per_level[i]:>4} characters")
+        for level in sorted(set(levels.values())):
+            print(f"HSK level {level}: {count_per_level[level]:>4} characters")

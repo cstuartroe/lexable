@@ -3,7 +3,7 @@ import argparse
 from django.core.management import base
 from matplotlib import pyplot as plt
 
-from lexable.lib import corpus_stats, hsk_levels, unicode_blocks
+from lexable.lib import corpus_stats, hsk, unicode_blocks
 from lexable.models import (
     document as document_lib,
     language,

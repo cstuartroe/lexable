@@ -8,4 +8,5 @@ class Command(base.BaseCommand):
         pass
 
     def handle(self, *args, **options):
-        hsk_vocab.download_all()
+        # hsk_vocab.download_mandarinbean()
+        hsk_vocab.parse_official()
