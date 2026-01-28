@@ -29,7 +29,10 @@ class Collection(models.Model):
         if with_documents:
             data["documents"] = [
                 d.to_json(with_content=False)
-                for d in self.documents.order_by("order")
+                for d in sorted(
+                    self.documents.all(),
+                    key=lambda document: document.order,
+                )
             ]
 
         return data
@@ -74,7 +77,10 @@ class Document(models.Model):
         if with_content:
             data["sections"] = [
                 s.to_json()
-                for s in self.sections.order_by("order")
+                for s in sorted(
+                    self.sections.all(),
+                    key=lambda section: section.order,
+                )
             ]
         return data
 
@@ -110,6 +116,9 @@ class Section(models.Model):
             "id": self.id,
             "sentences": [
                 s.to_json()
-                for s in self.sentences.order_by("order")
+                for s in sorted(
+                    self.sentences.all(),
+                    key=lambda sentence: sentence.order,
+                )
             ],
         }
