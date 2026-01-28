@@ -49,7 +49,7 @@ def download_mandarinbean():
         )
 
 
-VOCAB_LINE_RE = r"(\d{1,5}) ([1-9（）-]+) ([^a-z]{1,12}) ([a-züāáǎàēéěèīíǐìōóǒòūúǔùǚǜǹ’/-]+)( (.+))?\n"
+VOCAB_LINE_RE = r"(\d{1,5}) ([1-9（）-]+) ([^a-z]{1,12}) ([a-züāáǎàēéěèīíǐìōóǒòūúǔùǚǜǹ ’/-]+)( ([^a-z]+))?\n"
 
 
 def separate_levels(level: str, pos: str):
@@ -82,6 +82,9 @@ def parse_official():
 
     for _, match in vocab_lines:
         number, level, word, pinyin, _, pos = match.groups()
+
+        if pos is not None:
+            pos = pos.replace(" ", "")
 
         assert number not in vocab_by_number
 

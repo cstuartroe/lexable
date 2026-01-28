@@ -10459,10 +10459,10 @@
   },
   {
     "word": "开玩笑",
-    "pinyin": "kāi",
+    "pinyin": "kāi wánxiào",
     "definition": null,
     "level": "4",
-    "pos": "wánxiào"
+    "pos": null
   },
   {
     "word": "看法",
@@ -47744,7 +47744,7 @@
     "pinyin": "gāolíng",
     "definition": null,
     "level": "7-9",
-    "pos": "名、 形"
+    "pos": "名、形"
   },
   {
     "word": "高明",
@@ -73585,10 +73585,10 @@
   },
   {
     "word": "与否",
-    "pinyin": "yǔ",
+    "pinyin": "yǔ fǒu",
     "definition": null,
     "level": "7-9",
-    "pos": "fǒu"
+    "pos": null
   },
   {
     "word": "与日俱增",
