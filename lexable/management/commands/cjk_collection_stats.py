@@ -77,6 +77,8 @@ class Command(base.BaseCommand):
 
             if logogram_density <= LOGOGRAM_DENSITY_THRESHOLD and avg_hsk <= AVG_HSK_LEVEL_THRESHOLD:
                 print(collection.title)
+                print(f"    Lexable id: {collection.id}")
+                print(f"    Link: {collection.link}")
                 print(f"    Total length: {sum(character_frequencies.values()):>6}")
                 print(f"    Length in CJK characters: {sum(cjk_counts):>6}")
                 print(f"    Number of distinct CJK characters: {len(cjk_counts):>4}")
