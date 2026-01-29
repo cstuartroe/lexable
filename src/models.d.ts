@@ -58,6 +58,7 @@ export type Collection = {
   description: string,
   link: string,
   image: string,
+  published: boolean,
   free: boolean,
 }
 export type CollectionWithDocuments = Collection & {

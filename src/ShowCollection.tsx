@@ -34,6 +34,7 @@ export default function ShowCollection(_props: {}) {
         <a href={collection.link} target="_blank">
           {collection.title}
         </a>
+        {!collection.published && " (not published)"}
       </div>
       <div>by {collection.author}</div>
       {/* TODO: make better alt text */}

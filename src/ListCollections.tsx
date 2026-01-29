@@ -22,6 +22,7 @@ export default function ListCollections(_props: {}) {
           <Link to={`/collection/${collection.id}`}>
             {collection.title}
           </Link>
+          {!collection.published && " (not published)"}
         </li>
       ))}
     </ul>

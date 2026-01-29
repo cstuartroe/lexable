@@ -1,5 +1,6 @@
 from django import http, views
 
+from lexable import settings
 from lexable.models import document
 
 
@@ -8,7 +9,7 @@ class ListCollectionsView(views.View):
         language = request.GET["language"]
 
         collections = document.Collection.objects.filter(language=language)
-        if not request.user.is_superuser:
+        if (not request.user.is_superuser) and (not settings.DEBUG):
             collections = collections.filter(published=True)
 
         collections_json = [
