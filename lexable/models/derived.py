@@ -74,17 +74,23 @@ class CardDueDate(models.Model):
         related_name="due_dates",
     )
     trial_type = models.CharField(choices=trial.TrialType.choices)
+    # sense is non-null iff trial_type is definition
+    sense = models.ForeignKey(
+        lexeme_model.LexemeSense,
+        on_delete=models.PROTECT,
+        related_name="due_dates",
+        null=True,
+    )
 
     metadata_field = models.CharField()
     due_date = models.DateField()
+    last_reviewed = models.DateField(null=True)
 
-    class Meta:
-        constraints = [
-            models.UniqueConstraint(
-                fields=["lexeme_add", "trial_type"],
-                name="unique_card_due_date",
-            ),
-        ]
+    # Constraints:
+    # - if trial_type is definition, sense is non-null and record is unique for lexeme_add, trial_type, sense triplet
+    # - otherwise, sense is null and record is unique for lexeme_add, trial_type pair
+    # This is not easily expressible using Django constraints and this is a derived table that can always be
+    # corrected, so no constraint is defined here.
 
 
 class CreditBalance(models.Model):
